@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <string name="background">Background</string>
+    <string name="background_asset_1">background_Asset_1</string>
+    <string name="music_can_change_the_world">Music Can Change The World !</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="play">Play_Pause</string>
+    <string name="back">back</string>
+    <string name="forward">forward</string>
+    <string name="library">Library</string>
+    <string name="playlist">Playlist</string>
+    <string name="songs">Songs</string>
+    <string name="downloaded_music">Downloaded Music</string>
+    <string name="recently_added">Recently Added</string>
+    <string name="song_name">Song Name</string>
+    <string name="song_image">Song_Image</string>
+    <string name="Artistname">Artist Name</string>
+    <string name="volumedown">volumedown</string>
+    <string name="volumeup">volumeup</string>
+    <string name="shuffle">shuffle</string>
+    <string name="repeat">repeat</string>
+    <string name="song_list">song list</string>
+    <string name="lyrics">Lyrics</string>
+    <string name="profilepic">profilepic</string>
+    <string name="enter_username">Enter UserName</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="register">Register</string>
+    <string name="already_registered_login_here">Already Registered ?Login Here</string>
+    <string name="song_title">Song Title</string>
+    <string name="_3_00">3:00</string>
+    <string name="_0_00">0:00</string>
+    <string name="time">%d:%d</string>
+    <string name="feature_not_available_coming_soon">Feature Not Available ! Coming Soon</string>
+    <string name="search">Search</string>
+    <string name="search_here">Search here</string>
+
+
+</resources>
